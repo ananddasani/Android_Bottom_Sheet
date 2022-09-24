@@ -3,9 +3,8 @@ Creating Play store like purchase option a Bottom Sheet
 
 # App Highlight
 
-<img src="app_images/Bottom Sheet Code.png" width="1000" /><br>
-
-<img src="app_images/Bottom Sheet App.png" width="300" /><br>
+![Bottom Sheet Code](https://user-images.githubusercontent.com/74413402/192092276-1cb83e27-a2ec-42a7-890a-3ac4c3a8d57b.png)
+![Bottom Sheet App](https://user-images.githubusercontent.com/74413402/192092278-f03eb067-fcdb-4b78-8b26-d9995df379f3.png)
 
 # Code
 
